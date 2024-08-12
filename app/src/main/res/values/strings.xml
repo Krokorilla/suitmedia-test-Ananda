@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Suitmedia Test</string>
+    <string name="name">Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+</resources>
